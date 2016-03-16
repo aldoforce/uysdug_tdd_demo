@@ -1,0 +1,11 @@
+<apex:page showHeader="true" sidebar="true" controller="AlgebraController">
+	<apex:pageMessages />
+	<apex:form>
+		<apex:inputText value="{!num_a}"/>
+		<apex:inputText value="{!num_b}"/>
+		<hr/>
+		<apex:outputText value="{!result}"/>
+		<br/><br/>
+		<apex:commandButton value="Sum" action="{!do_sum}"/> 
+	</apex:form>	
+</apex:page>
