@@ -4,8 +4,8 @@ The following repo was used as support for the session "MythBusters: Test Driven
 
 Showcased at:
 
--[Testing3 Uy](http://testing.uy) April 2016, Montevideo Uruguay
--[Midwest Dreamin'16](http://midwestdreamin.com) July 2016, Chicago, IL
--[Forcelandia](http://forcelandia.com) July 2016, Portland, OR
-
+* [UYSDUG March'16](http://uysdug.com) March 2016, Montevideo Uruguay
+* [Testing3 Uy](http://testing.uy) April 2016, Montevideo Uruguay
+* [Midwest Dreamin'16](http://midwestdreamin.com) July 2016, Chicago, IL
+* [Forcelandia](http://forcelandia.com) July 2016, Portland, OR
 
